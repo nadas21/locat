@@ -1,0 +1,54 @@
+.port{
+
+    background-image: url(../../assets/img/orqa.png);
+    height: 845px;
+    margin-top: 25px;
+}
+.port-h1 {
+    color: #FFF;
+font-family: Roboto;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: 75.6px; /* 118.125% */
+width: 649px;
+padding-top: 146px;
+padding-left: 38px;
+}
+.port-p {
+    color: #FFF;
+font-family: Roboto;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 152.941% */
+padding-left: 38px;
+padding-top: 17px;
+/* margin-top: 17px; */
+}
+.port-btn {
+    color: #0C2520;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+border-radius: 100px;
+border: 1px solid #E1FFA0;
+background: #E1FFA0;
+padding: 13px 25px;
+margin-left: 38px;
+margin-top: 64px;
+}
+.port-item-btn {
+    color: #FFF;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 114.286% */
+background-color: transparent;
+border: none;
+margin-left: 38px;
+margin-top: 64px;
+}

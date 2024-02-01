@@ -1,0 +1,91 @@
+.for-new {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 159px;
+}
+.for-h3 {
+    color: #333;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 120% */
+margin-top: 52px;
+
+}
+.for-h2 {
+    margin-top: 13px;
+    color: #333;
+font-family: Roboto;
+font-size: 42px;
+font-style: normal;
+font-weight: 400;
+line-height: 44.1px; /* 105% */
+width: 408px;
+}
+.for-p {
+    color: #333;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20.8px; /* 130% */
+margin-top: 24px;
+width: 481px;
+}
+.for-h4 {
+    color: #164038;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 114.286% */
+}
+.nav-inner {
+    display: flex;
+    /* align-items: center; */
+    margin-top: 120px;
+}
+.nav-h3 {
+    color: #333;
+font-family: Roboto;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 114.286% */
+width: 129px;
+}
+.nav-h2 {
+    color: #333;
+font-family: Roboto;
+font-size: 42px;
+font-style: normal;
+font-weight: 400;
+line-height: 44.1px; /* 105% */
+width: 480px;
+margin-top: 14px;
+}
+.nav-p {
+    color: #333;
+font-family: Roboto;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 20.8px; /* 138.667% */
+margin-top: 19px;
+padding-right: 198px;
+}
+.nav-list-ul {
+    display: flex;
+}
+.nav-list-li {
+    margin-left: 20px;
+}
+.nav-h4 {
+    margin-right: 130px;
+    align-items: center;
+    background-image: url(../../assets/img/onga.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

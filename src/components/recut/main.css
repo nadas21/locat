@@ -1,0 +1,55 @@
+.ruqut {
+    border-radius: 4px;
+    background: #164038;
+    margin-top: 158px;
+height: 455px;
+}
+.ruqut-box {
+    display: flex;
+    align-items: center;
+}
+.ruqut-checks {
+    margin-left: 400px;
+    margin-top: 32px;
+}
+.ruqut-text {
+    color: #FFF;
+font-family: Roboto;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 114.286% */
+width: 170px;
+}
+.ruqut-text-h2 {
+    width: 378px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44.1px; /* 116.053% */
+    margin-top: 14px;
+}
+.ruqut-text-p {
+    color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20.8px; /* 130% */
+margin-top: 19px;
+}
+.ruqut-btn {
+    margin-top: 36px;
+    border-radius: 100px;
+border: 1px solid #E1FFA0;
+background: #E1FFA0;
+color: #0C2520;
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 184.615% */
+padding: 12px 25px;
+}
